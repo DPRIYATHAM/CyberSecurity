@@ -7,3 +7,4 @@
 ## Sessions
 1. Networks and Nmap - Cyber Week
 2. Introduction to CTF
+3. Introduction to Cyber Security
