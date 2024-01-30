@@ -23,3 +23,6 @@
 # Interview Experience
 - CDAC Banglore (Cyber Security Internship)
 - HighRadius
+
+# Projects
+- ADS - IOT Hardware Project
