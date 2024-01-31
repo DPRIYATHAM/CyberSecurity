@@ -2,7 +2,7 @@
 
 ## Courses
 1. Nmap for Ethical Hackers - Udemy
-2. Google CyberSecurity Professional (2/8)
+2. Google CyberSecurity Professional (2/8) - Working
 
 ## Sessions
 1. Networks and Nmap - Cyber Week
