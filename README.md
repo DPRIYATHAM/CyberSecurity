@@ -3,6 +3,7 @@
 ## Courses
 1. Nmap for Ethical Hackers - Udemy
 2. Google CyberSecurity Professional (2/8) - Coursera (Working)
+3. Wireshark - Udemy (Working)
 
 ## Sessions
 1. Networks and Nmap - Cyber Week
