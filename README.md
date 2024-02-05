@@ -29,6 +29,7 @@
 - ADS - IOT Hardware Project
 - Placement Cell Project - Firebase security.
 - Intrusion Detection System
+- Malware Prediction - Machine Learning
 
 ## Experience
 - Cyber Security Internship - CodeAlpha
