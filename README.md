@@ -22,7 +22,7 @@
 8. Cryptography
 
 ## Projects
-- ADS - IOT Hardware Project
+- ADS - IOT Hardware Project (Intrusion Detection System, Secure Dashboard for Monitoring)
 - Placement Cell Project - Firebase security.
 - Intrusion Detection System - Suricata
 - Malware Prediction - Machine Learning
