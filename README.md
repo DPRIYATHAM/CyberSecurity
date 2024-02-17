@@ -21,15 +21,13 @@
 7. Steganography 
 8. Cryptography
 
-## Interview Experience
-- CDAC Banglore (Cyber Security Internship)
-- HighRadius
-
 ## Projects
 - ADS - IOT Hardware Project
 - Placement Cell Project - Firebase security.
-- Intrusion Detection System
+- Intrusion Detection System - Suricata
 - Malware Prediction - Machine Learning
+- Basic Python Sniffer (Scapy)
+- Forensics - Autopsy, Voltality, FTK Imager
 
 ## Experience
 - Cyber Security Internship - CodeAlpha
