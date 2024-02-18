@@ -30,6 +30,6 @@
 - Forensics - Autopsy, Voltality, FTK Imager
 
 ## Experience
-- Cyber Security Internship - CodeAlpha
+- Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
 
 *Many things to come, will be updated soon.
