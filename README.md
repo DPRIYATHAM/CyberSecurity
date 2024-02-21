@@ -32,4 +32,6 @@
 ## Experience
 - Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
 
+- Looking for more Internship opportunities.
+
 *Many things to come, will be updated soon.
