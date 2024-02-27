@@ -7,7 +7,7 @@
 
 ## Sessions
 1. Networks and Nmap - Cyber Week
-2. Introduction to CTF
+2. Capture the Flag
 3. Introduction to Cyber Security
 4. Open Source and Ciphers with Cyber Security
 
