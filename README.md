@@ -29,6 +29,11 @@
 - Basic Python Sniffer (Scapy)
 - Forensics - Autopsy, Voltality, FTK Imager
 
+## Academics
+- Digital Forensics
+- Database Security 
+
+
 ## Experience
 - Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
 
