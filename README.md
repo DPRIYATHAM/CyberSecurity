@@ -31,7 +31,9 @@
 
 ## Academics
 - Digital Forensics
-- Database Security 
+- Database Security
+- IOT Security
+- Risk Management 
 
 
 ## Experience
