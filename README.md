@@ -33,7 +33,8 @@
 - Digital Forensics
 - Database Security
 - IOT Security
-- Risk Management 
+- Risk Management
+- Quantum Computing 
 
 
 ## Experience
