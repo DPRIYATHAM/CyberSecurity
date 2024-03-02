@@ -34,8 +34,8 @@
 - Database Security
 - IOT Security
 - Risk Management
-- Quantum Computing 
-
+- Quantum Computing
+- Criminal Psychology 
 
 ## Experience
 - Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
