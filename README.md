@@ -36,7 +36,8 @@
 - Risk Management
 - Quantum Computing
 - Criminal Psychology
-- Cryptography 
+- Cryptography
+- Secure Software Engineering 
 
 ## Experience
 - Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
