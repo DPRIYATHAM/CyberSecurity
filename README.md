@@ -37,7 +37,8 @@
 - Quantum Computing
 - Criminal Psychology
 - Cryptography
-- Secure Software Engineering 
+- Secure Software Engineering
+- Distributed System Security 
 
 ## Experience
 - Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
