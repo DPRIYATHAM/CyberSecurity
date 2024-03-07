@@ -38,7 +38,8 @@
 - Criminal Psychology
 - Cryptography
 - Secure Software Engineering
-- Distributed System Security 
+- Distributed System Security
+- Information Security 
 
 ## Experience
 - Cyber Security Internship - [CodeAlpha](https://github.com/DPRIYATHAM/CodeAlpha-Internship)
